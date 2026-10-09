@@ -5,7 +5,7 @@ Welcome to my portfolio. Here is a summary of my projects in financial and data 
 ## Table of Contents
 * About
 * Portfolio Projects
-  *  [Aros Media: Content Performance & Profitability Dashboard](https://github.com/benlttl/Aros-Media-Content-Performance-Profitability-Dashboard#aros-media-content-performance-profitability-dashboard)
+  *  [Aros Media: Content Performance & Profitability Dashboard](https://github.com/benlttl/Portfolio-Projects#aros-media-content-performance--profitability-dashboard)
   *  [Voltadrive: Financial Modeling & Three-Statement Analysis](https://github.com/benlttl/Portfolio-Projects/edit/main/README.md#voltadrive-financial-modeling--three-statement-analysis)
   *  [Robinhood Financial Health & Industry Benchmark Analysis](https://github.com/benlttl/Portfolio-Projects/edit/main/README.md#robinhood-financial-health--industry-benchmark-analysis)
 * Education
