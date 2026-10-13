@@ -80,7 +80,7 @@ The analysis highlighted strong pre-tax margins alongside potential weaknesses i
 Transylvania University: Bachelor's of Arts, Economics, 2023 - 2026
 
 # Contact
-* LinkedIn: [@bglittle](www.linkedin.com/in/bglittle)
+* LinkedIn: [@bglittle](https://www.linkedin.com/in/bglittle/?isSelfProfile=true)
 * X: [@benGlttl](https://x.com/benGlttl)
 * Email: bglittle05@gmail.com
 
